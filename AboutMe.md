@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lion-techv
+- 👀 I’m interested in web dev, solidity & software development
+- 🌱 I’m currently learning solidity, web3, software development
+- 💞️ I’m looking to collaborate on web3, smart contract, blockchain development
+- 📫 How to reach me discord(og#1963)
